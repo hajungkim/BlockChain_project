@@ -3,9 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # 블록체인을 활용한 거래사이트
 > P2P거래를 블록체인 기반의 사이트를 이용하여 신뢰성 있는 거래를 할 수 있습니다.
 ## About
-- mysql과 연동하여 식당목록, 회원관리
-- 회원가입, 정보변경, 탈퇴
-- 글쓰기, 수정, 삭제 가능한 게시판
+- React + Node.js + MongoDB + Express 
+- 가상계좌 ganache를 metamask와 연동해 거래
+- ERC-20토큰을 사용한 거래
+- 블록에 쓰여질 필요없는 상품목록, 사용자 정보 등은 DB에 저장
 
 ## Project stack
 ### Frontend
